@@ -3,11 +3,6 @@
 # ─────────────────────────────────────────────
 on:
   push:
-    paths:
-      - '**/*.json'
-      - '**/*.png'
-      - '**/*.jpg'
-      - '**/*.jpeg'
   workflow_dispatch:
 
 jobs:
