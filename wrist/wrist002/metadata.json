@@ -1,10 +1,11 @@
 {
+    "version": 1.0,
   "region": "wrist",
   "caseId": "wrist002",
   "category": "wrist fractures",
-  "diagnostic": ["diag_1", "diag_2"],
+  "diagnostic": ["diag_1.jpg", "diag_2.jpg"],
   "advanced": [],
-  "management": ["mgmt_1", "mgmt_2", "mgmt_3", "mgmt_4"],
+  "management": ["mgmt_1.jpg", "mgmt_2.jpg", "mgmt_3.jpg", "mgmt_4.jpg"],
   "questions": {
     "interpretation": {
       "answer": "AP and lateral of the left wrist demonstrating a distal radius fracture.",

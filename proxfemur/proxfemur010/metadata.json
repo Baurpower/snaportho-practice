@@ -1,10 +1,11 @@
 {
+    "version": 1.0,
   "region": "proxfemur",
   "caseId": "proxfemur010",
   "category": "hip fractures",
-  "diagnostic": ["diag_1", "diag_3"],
-  "advanced": ["diag_2"],
-  "management": ["mgmt_1"],
+  "diagnostic": ["diag_1.jpg", "diag_3.jpg"],
+  "advanced": ["diag_2.jpg"],
+  "management": ["mgmt_1.jpg"],
   "questions": {
     "interpretation": {
       "answer": "AP pelvis and lateral of right hip demonstrating an incomplete femoral neck fracture.",

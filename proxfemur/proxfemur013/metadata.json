@@ -1,10 +1,11 @@
 {
+    "version": 1.0,
   "region": "proxfemur",
   "caseId": "proxfemur013",
   "category": "hip fractures",
-  "diagnostic": ["diag_1", "diag_2", "diag_3"],
+  "diagnostic": ["diag_1.jpg", "diag_2.jpg", "diag_3.jpg"],
   "advanced": [],
-  "management": ["mgmt_1"],
+  "management": ["mgmt_1.jpg"],
   "questions": {
     "interpretation": {
       "answer": "AP of pelvis and AP/Lateral of left hip demonstrating a comminuted intertrochanteric fracture.",

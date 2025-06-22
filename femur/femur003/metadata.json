@@ -1,10 +1,11 @@
 {
+    "version": 1.0,
   "region": "femur",
   "caseId": "femur003",
   "category": "femur fractures",
-  "diagnostic": ["diag_1", "diag_2"],
+  "diagnostic": ["diag_1.jpg", "diag_2.jpg"],
   "advanced": [],
-  "management": ["mgmt_1", "mgmt_2"],
+  "management": ["mgmt_1.jpg", "mgmt_2.jpg"],
   "questions": {
     "interpretation": {
       "answer": "AP pelvis and AP left hip demonstrating a left complete nondisplaced femoral neck fracture and ipsilateral displaced femoral shaft fracture with shortening.",

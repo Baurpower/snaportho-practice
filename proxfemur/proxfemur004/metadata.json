@@ -1,10 +1,11 @@
 {
+    "version": 1.0,
   "region": "proxfemur",
   "caseId": "proxfemur004",
   "category": "hip fractures",
-  "diagnostic": ["diag_1"],
+  "diagnostic": ["diag_1.png"],
   "advanced": [],
-  "management": ["mgmt_1"],
+  "management": ["mgmt_1.png"],
   "questions": {
     "interpretation": {
       "answer": "AP view of left hip demonstrating a complete non-displaced femoral neck fracture.",

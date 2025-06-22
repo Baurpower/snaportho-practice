@@ -1,10 +1,11 @@
 {
+    "version": 1.0,
   "region": "proxfemur",
   "caseId": "proxfemur012",
   "category": "hip fractures",
-  "diagnostic": ["diag_1"],
-  "advanced": ["diag_2", "diag_3", "diag_4"],
-  "management": ["mgmt_1"],
+  "diagnostic": ["diag_1.jpg"],
+  "advanced": ["diag_2.jpg", "diag_3.jpg", "diag_4.jpg"],
+  "management": ["mgmt_1.jpg"],
   "questions": {
     "interpretation": {
       "answer": "AP of left hip demonstrating an incomplete femoral neck fracture.",

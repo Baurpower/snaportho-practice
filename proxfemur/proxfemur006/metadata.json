@@ -1,8 +1,9 @@
 {
+    "version": 1.0,
   "region": "proxfemur",
   "caseId": "proxfemur006",
   "category": "hip fractures",
-  "diagnostic": ["diag_1"],
+  "diagnostic": ["diag_1.png"],
   "advanced": [],
   "management": [],
   "questions": {
