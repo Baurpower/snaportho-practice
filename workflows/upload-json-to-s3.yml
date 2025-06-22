@@ -3,7 +3,7 @@ name: Upload JSONs to S3
 on:
   push:
     paths:
-      - 'flashcard-jsons/**/*.json'
+       - 'snaportho-practice/**/*.json'
 
 jobs:
   deploy:
