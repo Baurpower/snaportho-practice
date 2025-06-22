@@ -3,5 +3,18 @@
   { "region": "wrist", "caseId": "wrist002" },
   { "region": "femur", "caseId": "femur001" },
   { "region": "femur", "caseId": "femur002" },
-  { "region": "femur", "caseId": "femur003" }
+  { "region": "femur", "caseId": "femur003" },
+  { "region": "proxfemur", "caseId": "proxfemur001" },
+  { "region": "proxfemur", "caseId": "proxfemur002" },
+  { "region": "proxfemur", "caseId": "proxfemur003" },
+  { "region": "proxfemur", "caseId": "proxfemur004" },
+  { "region": "proxfemur", "caseId": "proxfemur005" },
+  { "region": "proxfemur", "caseId": "proxfemur006" },
+  { "region": "proxfemur", "caseId": "proxfemur007" },
+  { "region": "proxfemur", "caseId": "proxfemur008" },
+  { "region": "proxfemur", "caseId": "proxfemur009" },
+  { "region": "proxfemur", "caseId": "proxfemur010" },
+  { "region": "proxfemur", "caseId": "proxfemur011" },
+  { "region": "proxfemur", "caseId": "proxfemur012" },
+  { "region": "proxfemur", "caseId": "proxfemur013" }
 ]
