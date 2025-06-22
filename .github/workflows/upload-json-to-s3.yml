@@ -1,28 +1,48 @@
-name: Upload JSONs to S3
+name: Upload JSON & Images to S3
 
+# ─────────────────────────────────────────────
+# Trigger: any push that changes JSON or images
+# ─────────────────────────────────────────────
 on:
   push:
     paths:
-    - '**/*.json'   # ✅ correct
-
+      - '**/*.json'
+      - '**/*.png'
+      - '**/*.jpg'
+      - '**/*.jpeg'
 
 jobs:
-  deploy:
+  upload:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      # 1️⃣  Check out the repo
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Show files to upload
-        run: ls -R flashcard-jsons
+      # 2️⃣  Show the files that will be synced (handy debug)
+      - name: List payload
+        run: |
+          echo "📂 JSON files:"
+          find . -name "*.json"
+          echo "🖼  Image files:"
+          find . -type f \( -name "*.png" -o -name "*.jpg" -o -name "*.jpeg" \)
 
+      # 3️⃣  Configure AWS credentials
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v4
         with:
-          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-access-key-id:     ${{ secrets.AWS_ACCESS_KEY_ID }}
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          aws-region: ${{ secrets.AWS_REGION }}
+          aws-region:            ${{ secrets.AWS_REGION }}
 
-      - name: Upload JSON files to S3
-        run: aws s3 sync flashcard-jsons/ s3://snaportho-practice/flashcard-jsons/ --delete --acl public-read
+      # 4️⃣  Sync JSON + images to S3, preserving folders
+      - name: Sync to S3
+        run: |
+          aws s3 sync . s3://snaportho-practice/ \
+            --exclude "*" \
+            --include "*.json" \
+            --include "*.png" \
+            --include "*.jpg" \
+            --include "*.jpeg" \
+            --acl public-read
