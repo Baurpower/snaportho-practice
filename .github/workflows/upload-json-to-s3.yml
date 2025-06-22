@@ -22,7 +22,7 @@ jobs:
       # 2️⃣ Show the files that will be synced (handy debug)
       - name: List payload
         run: |
-          echo "📂 JSON files:"
+          echo "📂 json files:"
           find . -name "*.json"
           echo "🖼 Image files:"
           find . -type f \( -name "*.png" -o -name "*.jpg" -o -name "*.jpeg" \)
