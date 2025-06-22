@@ -1,0 +1,22 @@
+{
+  "region": "proxfemur",
+  "caseId": "proxfemur004",
+  "category": "hip fractures",
+  "diagnostic": ["diag_1"],
+  "advanced": [],
+  "management": ["mgmt_1"],
+  "questions": {
+    "interpretation": {
+      "answer": "AP view of left hip demonstrating a complete non-displaced femoral neck fracture.",
+      "link": ""
+    },
+    "classification": {
+      "answer": "Garden 2",
+      "link": ""
+    },
+    "management": {
+      "answer": "ORIF with dynamic hip screw or intramedullary nail.",
+      "link": ""
+    }
+  }
+}

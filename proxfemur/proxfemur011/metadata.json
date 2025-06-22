@@ -1,0 +1,22 @@
+{
+  "region": "proxfemur",
+  "caseId": "proxfemur011",
+  "category": "hip fractures",
+  "diagnostic": ["diag_1", "diag_2"],
+  "advanced": [],
+  "management": ["mgmt_1"],
+  "questions": {
+    "interpretation": {
+      "answer": "AP of pelvis and AP right hip demonstrating a complete displaced femoral neck fracture with history of intramedullary nail in distal femur.",
+      "link": ""
+    },
+    "classification": {
+      "answer": "Garden Type 4",
+      "link": ""
+    },
+    "management": {
+      "answer": "Hemiarthroplasty or THA depending on patient risk factors with possible removal of retrograde femoral nail.",
+      "link": ""
+    }
+  }
+}

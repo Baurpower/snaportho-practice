@@ -1,0 +1,22 @@
+{
+  "region": "proxfemur",
+  "caseId": "proxfemur012",
+  "category": "hip fractures",
+  "diagnostic": ["diag_1"],
+  "advanced": ["diag_2", "diag_3", "diag_4"],
+  "management": ["mgmt_1"],
+  "questions": {
+    "interpretation": {
+      "answer": "AP of left hip demonstrating an incomplete femoral neck fracture.",
+      "link": ""
+    },
+    "classification": {
+      "answer": "Garden Type 1",
+      "link": ""
+    },
+    "management": {
+      "answer": "Closed Reduction Percutaneous Pinning (CRPP)",
+      "link": ""
+    }
+  }
+}
