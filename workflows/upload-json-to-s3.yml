@@ -3,7 +3,8 @@ name: Upload JSONs to S3
 on:
   push:
     paths:
-       - 'snaportho-practice/**/*.json'
+    - '**/*.json'   # ✅ correct
+
 
 jobs:
   deploy:
