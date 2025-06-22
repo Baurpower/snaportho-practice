@@ -1,0 +1,22 @@
+{
+  "region": "femur",
+  "caseId": "femur003",
+  "category": "femur fractures",
+  "diagnostic": ["diag_1", "diag_2"],
+  "advanced": [],
+  "management": ["mgmt_1", "mgmt_2"],
+  "questions": {
+    "interpretation": {
+      "answer": "AP pelvis and AP left hip demonstrating a left complete nondisplaced femoral neck fracture and ipsilateral displaced femoral shaft fracture with shortening.",
+      "link": ""
+    },
+    "classification": {
+      "answer": "Garden type 3 and Winquist-Hansen Type 1",
+      "link": ""
+    },
+    "management": {
+      "answer": "Intramedullary femoral nail",
+      "link": ""
+    }
+  }
+}

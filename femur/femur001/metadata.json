@@ -1,0 +1,22 @@
+{
+  "region": "femur",
+  "caseId": "femur003",
+  "category": "femur fractures",
+  "diagnostic": ["diag_1", "diag_2"],
+  "advanced": [],
+  "management": ["mgmt_1", "mgmt_2"],
+  "questions": {
+    "interpretation": {
+      "answer": "AP of left hip demonstrating a displaced subtrochanteric fracture with shortening.",
+      "link": ""
+    },
+    "classification": {
+      "answer": "Russel-Taylor Type 1",
+      "link": ""
+    },
+    "management": {
+      "answer": "Antegrade intramedullary femoral nail",
+      "link": ""
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "region": "femur",
+  "caseId": "femur002",
+  "category": "femur fractures",
+  "diagnostic": ["diag_1", "diag_2"],
+  "advanced": [],
+  "management": ["mgmt_1", "mgmt_2"],
+  "questions": {
+    "interpretation": {
+      "answer": "AP of left femur and lateral of left knee demonstrating a displaced femoral shaft fracture with shortening.",
+      "link": ""
+    },
+    "classification": {
+      "answer": "Winquist-Hansen Type 1",
+      "link": ""
+    },
+    "management": {
+      "answer": "Antegrade intramedullary femoral nail",
+      "link": ""
+    }
+  }
+}

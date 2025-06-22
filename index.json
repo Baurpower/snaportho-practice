@@ -1,0 +1,7 @@
+[
+  { "region": "wrist", "caseId": "wrist001" },
+  { "region": "wrist", "caseId": "wrist002" },
+  { "region": "femur", "caseId": "femur001" },
+  { "region": "femur", "caseId": "femur002" },
+  { "region": "femur", "caseId": "femur003" }
+]
