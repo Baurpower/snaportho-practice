@@ -1,5 +1,3 @@
-name: Upload JSON & Images to S3
-
 # ─────────────────────────────────────────────
 # Trigger: any push that changes JSON or images
 # ─────────────────────────────────────────────
@@ -36,7 +34,7 @@ jobs:
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws-region:            ${{ secrets.AWS_REGION }}
 
-      # 4️⃣  Sync JSON + images to S3, preserving folders
+      # 4️⃣  Sync JSON + images to S3, preserving folders (no ACL flag!)
       - name: Sync to S3
         run: |
           aws s3 sync . s3://snaportho-practice/ \
@@ -44,5 +42,4 @@ jobs:
             --include "*.json" \
             --include "*.png" \
             --include "*.jpg" \
-            --include "*.jpeg" \
-            --acl public-read
+            --include "*.jpeg"
