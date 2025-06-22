@@ -1,0 +1,22 @@
+{
+  "region": "wrist",
+  "caseId": "wrist001",
+  "category": "wrist fractures",
+  "diagnostic": ["diag_1", "diag_2", "diag_3"],
+  "advanced": ["diag_4", "diag_5"],
+  "management": ["mgmt_1", "mgmt_2"],
+  "questions": {
+    "interpretation": {
+      "answer": "3 views of the left wrist (AP, oblique, and lateral) demonstrating an intra-articular distal radius fracture.",
+      "link": ""
+    },
+    "classification": {
+      "answer": "",
+      "link": ""
+    },
+    "management": {
+      "answer": "ORIF",
+      "link": ""
+    }
+  }
+}
