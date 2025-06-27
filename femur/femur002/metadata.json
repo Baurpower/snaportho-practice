@@ -1,5 +1,5 @@
 {
-    "version": 1.0,
+    "version": 1.1,
   "region": "femur",
   "caseId": "femur002",
   "category": "femur fractures",
@@ -12,11 +12,11 @@
       "link": ""
     },
     "classification": {
-      "answer": "Winquist-Hansen Type 1",
+      "answer": "",
       "link": ""
     },
     "management": {
-      "answer": "Antegrade intramedullary femoral nail",
+      "answer": "Intramedullary femoral nail (antegrade or retrograde)",
       "link": ""
     }
   }

@@ -1,14 +1,14 @@
 {
-  "version": 1.1,
+    "version": 1.0,
   "region": "wrist",
-  "caseId": "wrist001",
+  "caseId": "wrist011",
   "category": "wrist fractures",
   "diagnostic": ["diag_1.jpg", "diag_2.jpg", "diag_3.jpg"],
-  "advanced": ["diag_4.jpg", "diag_5.jpg"],
+  "advanced": [],
   "management": ["mgmt_1.jpg", "mgmt_2.jpg"],
   "questions": {
     "interpretation": {
-      "answer": "3 views of the left wrist (AP, oblique, and lateral) demonstrating a dorsally displaced intra-articular distal radius fracture.",
+      "answer": "AP and lateral of the left wrist demonstrating a distal radius fracture with apex dorsal angulation.",
       "link": ""
     },
     "classification": {
@@ -16,7 +16,7 @@
       "link": ""
     },
     "management": {
-      "answer": "ORIF",
+      "answer": "Closed reduction followed by cast or ORIF depending on post-reduction films.",
       "link": ""
     }
   }

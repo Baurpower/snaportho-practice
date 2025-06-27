@@ -1,14 +1,14 @@
 {
-    "version": 1.1,
+    "version": 1.0,
   "region": "wrist",
-  "caseId": "wrist002",
+  "caseId": "wrist006",
   "category": "wrist fractures",
   "diagnostic": ["diag_1.jpg", "diag_2.jpg"],
   "advanced": [],
   "management": ["mgmt_1.jpg", "mgmt_2.jpg", "mgmt_3.jpg", "mgmt_4.jpg"],
   "questions": {
     "interpretation": {
-      "answer": "AP and lateral of the left wrist demonstrating a dorsally displaced distal radius fracture.",
+      "answer": "AP and lateral of the left wrist demonstrating a displaced distal radius fracture with dorsal angulation, associated ulna styloid fx",
       "link": ""
     },
     "classification": {
@@ -16,7 +16,7 @@
       "link": ""
     },
     "management": {
-      "answer": "Closed reduction followed by cast tx or ORIF depending on post-reduction xrays.",
+      "answer": "ORIF",
       "link": ""
     }
   }

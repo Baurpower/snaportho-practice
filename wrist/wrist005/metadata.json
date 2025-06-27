@@ -1,0 +1,23 @@
+{
+    "version": 1.0,
+  "region": "wrist",
+  "caseId": "wrist005",
+  "category": "wrist fractures",
+  "diagnostic": ["diag_1.jpg", "diag_2.jpg"],
+  "advanced": ["diag_3.jpg",  "diag_4.jpg"],
+  "management": ["mgmt_1.jpg"],
+  "questions": {
+    "interpretation": {
+      "answer": "AP and lateral of the left wrist demonstrating a distal radius fracture with extension into the radial styloid.",
+      "link": ""
+    },
+    "classification": {
+      "answer": "",
+      "link": ""
+    },
+    "management": {
+      "answer": "ORIF",
+      "link": ""
+    }
+  }
+}

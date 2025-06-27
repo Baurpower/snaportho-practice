@@ -1,5 +1,5 @@
 {
-    "version": 1.0,
+    "version": 1.1,
   "region": "proxfemur",
   "caseId": "proxfemur001",
   "category": "hip fractures",
@@ -8,7 +8,7 @@
   "management": [],
   "questions": {
     "interpretation": {
-      "answer": "AP view of pelvis with a previous THA on the left and a complete displaced femoral neck fracture on the right.",
+      "answer": "AP view of pelvis with a previous well-fixed THA on the left and a complete displaced femoral neck fracture on the right.",
       "link": ""
     },
     "classification": {
