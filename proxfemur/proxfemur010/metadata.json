@@ -1,5 +1,5 @@
 {
-    "version": 1.0,
+    "version": 1.1,
   "region": "proxfemur",
   "caseId": "proxfemur010",
   "category": "hip fractures",
@@ -16,7 +16,7 @@
       "link": ""
     },
     "management": {
-      "answer": "Closed Reduction Percutaneous Pinning (CRPP)",
+      "answer": "ORIF or THA depending on patient factors (age and activity levels)",
       "link": ""
     }
   }
