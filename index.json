@@ -25,5 +25,11 @@
   { "region": "proxfemur", "caseId": "proxfemur010", "version": 1.1 },
   { "region": "proxfemur", "caseId": "proxfemur011", "version": 1.0 },
   { "region": "proxfemur", "caseId": "proxfemur012", "version": 1.0 },
-  { "region": "proxfemur", "caseId": "proxfemur013", "version": 1.0 }
+  { "region": "proxfemur", "caseId": "proxfemur013", "version": 1.0 },
+  { "region": "ankle", "caseId": "ankle002", "version": 1.0 },
+  { "region": "ankle", "caseId": "ankle003", "version": 1.0 },
+  { "region": "ankle", "caseId": "ankle004", "version": 1.0 },
+  { "region": "ankle", "caseId": "ankle005", "version": 1.0 },
+  { "region": "ankle", "caseId": "ankle007", "version": 1.0 },
+  { "region": "ankle", "caseId": "ankle008", "version": 1.0 }
 ]

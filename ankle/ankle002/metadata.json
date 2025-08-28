@@ -1,0 +1,23 @@
+{
+    "version": 1.0,
+  "region": "ankle",
+  "caseId": "ankle002",
+  "category": "ankle fractures",
+  "diagnostic": ["diag_1.jpg", "diag_2.jpg", "diag_3.jpg"],
+  "advanced": [],
+  "management": [],
+  "questions": {
+    "interpretation": {
+      "answer": "X-ray: Three views of the right ankle (AP, mortise, lateral), demonstrate a short oblique distal fibula fracture.",
+      "link": ""
+    },
+    "classification": {
+      "answer": "Weber B",
+      "link": ""
+    },
+    "management": {
+      "answer": "Non-op",
+      "link": ""
+    }
+  }
+}
