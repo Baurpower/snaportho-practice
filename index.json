@@ -13,6 +13,7 @@
   { "region": "femur", "caseId": "femur001", "version": 1.1},
   { "region": "femur", "caseId": "femur002", "version": 1.1},
   { "region": "femur", "caseId": "femur003", "version": 1.1},
+  { "region": "femur", "caseId": "femur004", "version": 1.0},
   { "region": "proxfemur", "caseId": "proxfemur001", "version": 1.1 },
   { "region": "proxfemur", "caseId": "proxfemur002", "version": 1.0 },
   { "region": "proxfemur", "caseId": "proxfemur003", "version": 1.0 },

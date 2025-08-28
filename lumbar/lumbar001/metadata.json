@@ -1,0 +1,23 @@
+{
+    "version": 1.0,
+  "region": "lumbar",
+  "caseId": "lumbar001",
+  "category": "lumbar fractures",
+  "diagnostic": ["diag_1.jpg", "diag_2.jpg", "diag_3.jpg"],
+  "advanced": [],
+  "management": ["mgmt_1.jpg", "mgmt_2.jpg"],
+  "questions": {
+    "interpretation": {
+      "answer": "Sagittal CT and sagittal+axial T2-weighted MRI of the lumbar spine, demonstrate a burst fracture of L2 with retropulsion of bony fragments into the spinal canal. The posterior ligamentous complex, appears grossly intact.",
+      "link": ""
+    },
+    "classification": {
+      "answer": "TLICS- 2 pts for burst (final score dependent on neuro exam).",
+      "link": ""
+    },
+    "management": {
+      "answer": "Posterior decompression and instrumented fusion. Could also be argument for non-op.",
+      "link": ""
+    }
+  }
+}

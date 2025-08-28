@@ -1,0 +1,23 @@
+{
+    "version": 1.0,
+  "region": "femur",
+  "caseId": "femur004",
+  "category": "femur fractures",
+  "diagnostic": ["diag_1.jpg", "diag_2.jpg", "diag_3.jpg"],
+  "advanced": ["diag_4.jpg"],
+  "management": ["mgmt_1.jpg", "mgmt_2.jpg", "mgmt_3.jpg"],
+  "questions": {
+    "interpretation": {
+      "answer": "AP and lateral right femur demonstrating an open displaced segmental femoral shaft  fracture with intra-articular extension.",
+      "link": ""
+    },
+    "classification": {
+      "answer": "",
+      "link": ""
+    },
+    "management": {
+      "answer": "ORIF with use of intramedullary femoral nail",
+      "link": ""
+    }
+  }
+}
