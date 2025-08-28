@@ -1,0 +1,23 @@
+{
+    "version": 1.0,
+  "region": "ankle",
+  "caseId": "ankle001",
+  "category": "ankle fractures",
+  "diagnostic": ["diag_1.png", "diag_2.png", "diag_3.png", "diag_4.png"],
+  "advanced": [],
+  "management": [],
+  "questions": {
+    "interpretation": {
+      "answer": "X-ray: AP and lateral of the left ankle, along with a tibia-fibula view, demonstrate a dislocated ankle with syndesmotic diastasis and an associated oblique midshaft oblique fibula fracture.",
+      "link": ""
+    },
+    "classification": {
+      "answer": "",
+      "link": ""
+    },
+    "management": {
+      "answer": "ORIF of Syndesmosis + Deltoid Ligament; ORIF of syndemosis only w/ 2 standard 4.0 screws alone, crossing 4 cortices (If opting to fix deltoid ligament -> open w/ suture anchors).",
+      "link": ""
+    }
+  }
+}
