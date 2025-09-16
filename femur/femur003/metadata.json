@@ -13,7 +13,10 @@
     },
     "classification": {
       "answer": "Garden type 3",
-      "extra": null
+      "extra": {
+        "kind": "classification_table",
+        "key": "garden"          
+      }
     },
     "management": {
       "answer": "Intramedullary femoral nail",
