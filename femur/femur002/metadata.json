@@ -9,15 +9,15 @@
   "questions": {
     "interpretation": {
       "answer": "AP of left femur and lateral of left knee demonstrating a displaced femoral shaft fracture with shortening.",
-      "link": ""
+      "extra": null
     },
     "classification": {
-      "answer": "",
-      "link": ""
+      "answer": null,
+      "extra": null
     },
     "management": {
       "answer": "Intramedullary femoral nail (antegrade or retrograde)",
-      "link": ""
+      "extra": null
     }
   }
 }

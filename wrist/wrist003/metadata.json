@@ -9,15 +9,15 @@
   "questions": {
     "interpretation": {
       "answer": "3 view of the left wrist (AP, oblique, and lateral) demonstrating an intra-articular distal radius fracture.",
-      "link": ""
+      "extra": null
     },
     "classification": {
-      "answer": "",
-      "link": ""
+      "answer": null,
+      "extra": null
     },
     "management": {
       "answer": "ORIF",
-      "link": ""
+      "extra": null
     }
   }
 }

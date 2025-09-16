@@ -9,15 +9,15 @@
   "questions": {
     "interpretation": {
       "answer": "AP and lateral of the left wrist demonstrating a displaced comminuted distal radius fracture with dorsal angulation as well as an associated distal ulna fracture.",
-      "link": ""
+      "extra": null
     },
     "classification": {
-      "answer": "",
-      "link": ""
+      "answer": null,
+      "extra": null
     },
     "management": {
       "answer": "Closed reduction followed by cast or ORIF depending on post-reduction films.",
-      "link": ""
+      "extra": null
     }
   }
 }

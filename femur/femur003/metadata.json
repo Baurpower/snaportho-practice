@@ -9,15 +9,15 @@
   "questions": {
     "interpretation": {
       "answer": "AP pelvis and AP left hip demonstrating a left complete nondisplaced femoral neck fracture and ipsilateral displaced femoral shaft fracture with shortening.",
-      "link": ""
+      "extra": null
     },
     "classification": {
       "answer": "Garden type 3",
-      "link": ""
+      "extra": null
     },
     "management": {
       "answer": "Intramedullary femoral nail",
-      "link": ""
+      "extra": null
     }
   }
 }

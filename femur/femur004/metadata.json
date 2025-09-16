@@ -9,15 +9,15 @@
   "questions": {
     "interpretation": {
       "answer": "AP and lateral right femur demonstrating an open displaced segmental femoral shaft  fracture with intra-articular extension.",
-      "link": ""
+      "extra": null
     },
     "classification": {
-      "answer": "",
-      "link": ""
+      "answer": null,
+      "extra": null
     },
     "management": {
       "answer": "ORIF with use of intramedullary femoral nail",
-      "link": ""
+      "extra": null
     }
   }
 }

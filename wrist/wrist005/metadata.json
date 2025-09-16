@@ -9,15 +9,15 @@
   "questions": {
     "interpretation": {
       "answer": "AP and lateral of the left wrist demonstrating a distal radius fracture with extension into the radial styloid.",
-      "link": ""
+      "extra": null
     },
     "classification": {
-      "answer": "",
-      "link": ""
+      "answer": null,
+      "extra": null
     },
     "management": {
       "answer": "ORIF",
-      "link": ""
+      "extra": null
     }
   }
 }

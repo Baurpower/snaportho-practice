@@ -9,15 +9,15 @@
   "questions": {
     "interpretation": {
       "answer": "AP of left hip demonstrating a displaced subtrochanteric fracture with shortening.",
-      "link": ""
+      "extra": null
     },
     "classification": {
-      "answer": "",
-      "link": ""
+      "answer": null,
+      "extra": null
     },
     "management": {
       "answer": "Antegrade intramedullary femoral nail",
-      "link": ""
+      "extra": null
     }
   }
 }

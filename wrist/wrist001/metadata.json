@@ -9,15 +9,15 @@
   "questions": {
     "interpretation": {
       "answer": "3 views of the left wrist (AP, oblique, and lateral) demonstrating a dorsally displaced intra-articular distal radius fracture.",
-      "link": ""
+      "extra": null
     },
     "classification": {
-      "answer": "",
-      "link": ""
+      "answer": null,
+      "extra": null
     },
     "management": {
       "answer": "ORIF",
-      "link": ""
+      "extra": null
     }
   }
 }

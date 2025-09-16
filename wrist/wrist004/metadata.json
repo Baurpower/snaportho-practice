@@ -9,15 +9,15 @@
   "questions": {
     "interpretation": {
       "answer": "3 view of the right wrist (AP, oblique, and lateral) demonstrating a distal radius fracture with dorsal angulation.",
-      "link": ""
+      "extra": null
     },
     "classification": {
-      "answer": "",
-      "link": ""
+      "answer": null,
+      "extra": null
     },
     "management": {
       "answer": "ORIF",
-      "link": ""
+      "extra": null
     }
   }
 }

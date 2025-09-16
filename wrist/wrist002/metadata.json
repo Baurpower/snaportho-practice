@@ -9,15 +9,15 @@
   "questions": {
     "interpretation": {
       "answer": "AP and lateral of the left wrist demonstrating a dorsally displaced distal radius fracture.",
-      "link": ""
+      "extra": null
     },
     "classification": {
-      "answer": "",
-      "link": ""
+      "answer": null,
+      "extra": null
     },
     "management": {
       "answer": "Closed reduction followed by cast tx or ORIF depending on post-reduction xrays.",
-      "link": ""
+      "extra": null
     }
   }
 }
