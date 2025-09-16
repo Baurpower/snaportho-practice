@@ -1,5 +1,5 @@
 {
-    "version": 1.0,
+    "version": 1.1,
   "region": "proxfemur",
   "caseId": "proxfemur008",
   "category": "hip fractures",
@@ -9,15 +9,18 @@
   "questions": {
     "interpretation": {
       "answer": "AP pelvis, AP right hip, and lateral right hip views demonstrate a completely displaced femoral neck fracture.",
-      "link": ""
+      "extra": ""
     },
     "classification": {
       "answer": "Garden Type 4",
-      "link": ""
+      "extra": {
+        "kind": "classification_table",
+        "key": "garden"          
+      }
     },
     "management": {
       "answer": "Hemiarthroplasty or THA depending on patient risk factors.",
-      "link": ""
+      "extra": ""
     }
   }
 }

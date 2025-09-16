@@ -9,15 +9,15 @@
   "questions": {
     "interpretation": {
       "answer": "X-ray: Three views of the left ankle (AP, mortise, lateral)  demonstrate fractures of the lateral and posterior malleoli with widening of the medial clear space, consistent with ankle mortise instability.",
-      "link": ""
+      "extra": ""
     },
     "classification": {
       "answer": "Weber B. Lauge-Hansen SER III",
-      "link": ""
+      "extra": ""
     },
     "management": {
       "answer": "ORIF",
-      "link": ""
+      "extra": ""
     }
   }
 }

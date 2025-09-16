@@ -9,15 +9,15 @@
   "questions": {
     "interpretation": {
       "answer": "X-ray: Ap and lateral of the left ankle demonstrate a bimalleolar ankle fracture dislocation with shortening.",
-      "link": ""
+      "extra": ""
     },
     "classification": {
       "answer": "Weber B. Lauge-Hansen SER IV",
-      "link": ""
+      "extra": ""
     },
     "management": {
       "answer": "Closed reduction followed by ORIF",
-      "link": ""
+      "extra": ""
     }
   }
 }

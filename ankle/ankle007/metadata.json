@@ -9,15 +9,15 @@
   "questions": {
     "interpretation": {
       "answer": "X-ray: AP and lateral of right ankle demonstrate distal tibia pilon fracture with associated Weber C oblique distal fibula fracture.",
-      "link": ""
+      "extra": ""
     },
     "classification": {
       "answer": "Weber C Fibula",
-      "link": ""
+      "extra": ""
     },
     "management": {
       "answer": "ORIF",
-      "link": ""
+      "extra": ""
     }
   }
 }

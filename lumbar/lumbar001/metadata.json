@@ -9,15 +9,15 @@
   "questions": {
     "interpretation": {
       "answer": "Sagittal CT and sagittal+axial T2-weighted MRI of the lumbar spine, demonstrate a burst fracture of L2 with retropulsion of bony fragments into the spinal canal. The posterior ligamentous complex, appears grossly intact.",
-      "link": ""
+      "extra": ""
     },
     "classification": {
       "answer": "TLICS- 2 pts for burst (final score dependent on neuro exam).",
-      "link": ""
+      "extra": ""
     },
     "management": {
       "answer": "Posterior decompression and instrumented fusion. Could also be argument for non-op.",
-      "link": ""
+      "extra": ""
     }
   }
 }

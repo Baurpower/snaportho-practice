@@ -1,5 +1,5 @@
 {
-    "version": 1.1,
+    "version": 1.2,
   "region": "proxfemur",
   "caseId": "proxfemur010",
   "category": "hip fractures",
@@ -9,15 +9,18 @@
   "questions": {
     "interpretation": {
       "answer": "AP pelvis and lateral of right hip demonstrating an incomplete femoral neck fracture.",
-      "link": ""
+      "extra": ""
     },
     "classification": {
       "answer": "Garden Type 1",
-      "link": ""
+      "extra": {
+        "kind": "classification_table",
+        "key": "garden"          
+      }
     },
     "management": {
       "answer": "ORIF via closed Reduction Percutaneous Pinning (CRPP) or arthroplasty depending on patient factors (age and activity)",
-      "link": ""
+      "extra": ""
     }
   }
 }

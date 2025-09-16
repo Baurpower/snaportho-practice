@@ -9,15 +9,15 @@
   "questions": {
     "interpretation": {
       "answer": "X-ray: Three views of the right ankle (AP, mortise, lateral), demonstrate a short oblique distal fibula fracture.",
-      "link": ""
+      "extra": ""
     },
     "classification": {
       "answer": "Weber B",
-      "link": ""
+      "extra": ""
     },
     "management": {
       "answer": "Non-op",
-      "link": ""
+      "extra": ""
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-    "version": 1.1,
+    "version": 1.2,
   "region": "proxfemur",
   "caseId": "proxfemur001",
   "category": "hip fractures",
@@ -9,15 +9,18 @@
   "questions": {
     "interpretation": {
       "answer": "AP view of pelvis with a previous well-fixed THA on the left and a complete displaced femoral neck fracture on the right.",
-      "link": ""
+      "extra": ""
     },
     "classification": {
       "answer": "Garden Type 4",
-      "link": ""
+      "extra": {
+        "kind": "classification_table",
+        "key": "garden"          
+      }
     },
     "management": {
       "answer": "Hemiarthroplasty or THA depending on patient risk factors.",
-      "link": ""
+      "extra": ""
     }
   }
 }
