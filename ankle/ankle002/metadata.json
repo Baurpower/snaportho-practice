@@ -12,8 +12,11 @@
       "extra": null
     },
     "classification": {
-      "answer": "Weber B",
-      "extra": null
+      "answer": "Weber B fibula",
+      "extra": {
+        "kind": "classification_table",
+        "key": "weber"          
+      }
     },
     "management": {
       "answer": "Non-op",

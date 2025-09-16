@@ -12,8 +12,11 @@
       "extra": null
     },
     "classification": {
-      "answer": "Weber C",
-      "extra": null
+      "answer": "Weber C fibula",
+      "extra": {
+        "kind": "classification_table",
+        "key": "weber"          
+      }
     },
     "management": {
       "answer": "Possible non-op or ORIF depending on patient level of activity.",

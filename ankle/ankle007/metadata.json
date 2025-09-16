@@ -13,7 +13,10 @@
     },
     "classification": {
       "answer": "Weber C Fibula",
-      "extra": null
+      "extra": {
+        "kind": "classification_table",
+        "key": "weber"          
+      }
     },
     "management": {
       "answer": "ORIF",
