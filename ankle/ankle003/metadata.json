@@ -13,7 +13,10 @@
     },
     "classification": {
       "answer": "Weber B. Lauge-Hansen SER IV",
-      "extra": null
+      "extra": {
+        "kind": "classification_table",
+        "key": "lauge_hansen"          
+      }
     },
     "management": {
       "answer": "Closed reduction followed by ORIF",
