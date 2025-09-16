@@ -9,15 +9,15 @@
   "questions": {
     "interpretation": {
       "answer": "X-ray: Ap and lateral of the left ankle demonstrate a distal tibia pilon ankle fracture with associated short oblique fibula fracture.",
-      "extra": ""
+      "extra": null
     },
     "classification": {
-      "answer": "",
-      "extra": ""
+      "answer": null,
+      "extra": null
     },
     "management": {
       "answer": "ORIF",
-      "extra": ""
+      "extra": null
     }
   }
 }

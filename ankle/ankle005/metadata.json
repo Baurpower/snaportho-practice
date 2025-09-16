@@ -9,15 +9,15 @@
   "questions": {
     "interpretation": {
       "answer": "X-ray: Three views of the left ankle (AP, mortise, lateral)  demonstrate an oblique distal fibula fracture.",
-      "extra": ""
+      "extra": null
     },
     "classification": {
       "answer": "Weber C",
-      "extra": ""
+      "extra": null
     },
     "management": {
       "answer": "Possible non-op or ORIF depending on patient level of activity.",
-      "extra": ""
+      "extra": null
     }
   }
 }

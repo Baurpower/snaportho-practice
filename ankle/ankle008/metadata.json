@@ -9,15 +9,15 @@
   "questions": {
     "interpretation": {
       "answer": "X-ray: AP and lateral of right ankle demonstrate an open comminuted distal tibia pilon fracture with associated distal fibula fracture.",
-      "extra": ""
+      "extra": null
     },
     "classification": {
-      "answer": "",
-      "extra": ""
+      "answer": null,
+      "extra": null
     },
     "management": {
       "answer": "I&D, ankle spanning Ex-Fix followed by delayed ORIF",
-      "extra": ""
+      "extra": null
     }
   }
 }

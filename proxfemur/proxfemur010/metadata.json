@@ -9,7 +9,7 @@
   "questions": {
     "interpretation": {
       "answer": "AP pelvis and lateral of right hip demonstrating an incomplete femoral neck fracture.",
-      "extra": ""
+      "extra": null
     },
     "classification": {
       "answer": "Garden Type 1",
@@ -20,7 +20,7 @@
     },
     "management": {
       "answer": "ORIF via closed Reduction Percutaneous Pinning (CRPP) or arthroplasty depending on patient factors (age and activity)",
-      "extra": ""
+      "extra": null
     }
   }
 }

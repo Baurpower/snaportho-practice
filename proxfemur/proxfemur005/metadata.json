@@ -11,7 +11,7 @@
   "questions": {
     "interpretation": {
       "answer": "AP view of pelvis demonstrating an intertrochanteric fracture on the right.",
-      "extra": ""
+      "extra": null
     },
     "classification": {
       "answer": "Unstable IT fracture",
@@ -22,7 +22,7 @@
     },
     "management": {
       "answer": "Intramedullary Nail (IMN)",
-      "extra": ""
+      "extra": null
     }
   }
 }

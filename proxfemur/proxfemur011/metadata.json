@@ -9,7 +9,7 @@
   "questions": {
     "interpretation": {
       "answer": "AP of pelvis and AP right hip demonstrating a complete displaced femoral neck fracture with history of intramedullary nail in distal femur.",
-      "extra": ""
+      "extra": null
     },
     "classification": {
       "answer": "Garden Type 4",
@@ -20,7 +20,7 @@
     },
     "management": {
       "answer": "Hemiarthroplasty or THA depending on patient risk factors with possible removal of retrograde femoral nail.",
-      "extra": ""
+      "extra": null
     }
   }
 }

@@ -9,7 +9,7 @@
   "questions": {
     "interpretation": {
       "answer": "AP view of left hip demonstrating a complete non-displaced femoral neck fracture.",
-      "extra": ""
+      "extra": null
     },
     "classification": {
       "answer": "Garden 2",
@@ -20,7 +20,7 @@
     },
     "management": {
       "answer": "ORIF with dynamic hip screw or intramedullary nail.",
-      "extra": ""
+      "extra": null
     }
   }
 }

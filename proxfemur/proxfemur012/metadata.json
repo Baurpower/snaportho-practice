@@ -9,7 +9,7 @@
   "questions": {
     "interpretation": {
       "answer": "AP of left hip demonstrating an incomplete femoral neck fracture.",
-      "extra": ""
+      "extra": null
     },
     "classification": {
       "answer": "Garden Type 1",
@@ -20,7 +20,7 @@
     },
     "management": {
       "answer": "Closed Reduction Percutaneous Pinning (CRPP)",
-      "extra": ""
+      "extra": null
     }
   }
 }

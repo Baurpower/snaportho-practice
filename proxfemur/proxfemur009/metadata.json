@@ -9,7 +9,7 @@
   "questions": {
     "interpretation": {
       "answer": "AP and lateral of left hip demonstrating an intertrochanteric fracture.",
-      "extra": ""
+      "extra": null
     },
     "classification": {
       "answer": "Unstable IT fracture",
@@ -20,7 +20,7 @@
     },
     "management": {
       "answer": "Intramedullary Nail (IMN)",
-      "extra": ""
+      "extra": null
     }
   }
 }
