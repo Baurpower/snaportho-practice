@@ -1,5 +1,5 @@
 {
-  "version": 1.1,
+  "version": 1.2,
   "region": "wrist",
   "caseId": "wrist001",
   "category": "wrist fractures",
@@ -17,7 +17,12 @@
     },
     "management": {
       "answer": "ORIF",
-      "extra": null
+      "extra": {
+  "kind": "learn_video",
+  "route": "learn/video",
+  "slug": "distal-radius",
+  "title": "Distal Radius Fractures"
+}
     }
   }
 }

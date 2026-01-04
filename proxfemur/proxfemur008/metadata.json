@@ -1,5 +1,5 @@
 {
-    "version": 1.1,
+    "version": 1.2,
   "region": "proxfemur",
   "caseId": "proxfemur008",
   "category": "hip fractures",
@@ -20,7 +20,12 @@
     },
     "management": {
       "answer": "Hemiarthroplasty or THA depending on patient risk factors.",
-      "extra": null
+      "extra": {
+  "kind": "learn_video",
+  "route": "learn/video",
+  "slug": "fem-neck",
+  "title": "Femoral Neck Fractures"
+}
     }
   }
 }

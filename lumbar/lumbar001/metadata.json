@@ -17,7 +17,12 @@
     },
     "management": {
       "answer": "Posterior decompression and instrumented fusion. Could also be argument for non-op.",
-      "extra": null
+      "extra": {
+  "kind": "learn_video",
+  "route": "learn/video",
+  "slug": "tlics",
+  "title": "Thoracolumbar Injury Classification and Severity Scale (TLICS)"
+}
     }
   }
 }

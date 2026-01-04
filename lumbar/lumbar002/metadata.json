@@ -17,7 +17,12 @@
     },
     "management": {
       "answer": "Nonoperative management with orthosis",
-      "extra": null
+      "extra": {
+  "kind": "learn_video",
+  "route": "learn/video",
+  "slug": "tlics",
+  "title": "Thoracolumbar Injury Classification and Severity Scale (TLICS)"
+}
     }
   }
 }
